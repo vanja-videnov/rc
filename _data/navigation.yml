@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: За запослене
+  link: /about.html
+- name: За студенте
+  link: /blog.html
+- name: Остале услуге
+  link: /staff.html
+- name: О нама
+  link: /about.html
